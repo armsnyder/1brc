@@ -1,0 +1,5 @@
+/measurements_*.txt
+/measurements_*.out
+/1brc
+/cpuprofile
+/memprofile
