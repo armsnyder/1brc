@@ -1,4 +1,4 @@
-package final
+package customscan
 
 import (
 	"bytes"
